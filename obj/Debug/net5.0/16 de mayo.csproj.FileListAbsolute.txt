@@ -1,0 +1,16 @@
+C:\Users\Upqroo\source\repos\16 de mayo\bin\Debug\net5.0\16 de mayo.exe
+C:\Users\Upqroo\source\repos\16 de mayo\bin\Debug\net5.0\16 de mayo.deps.json
+C:\Users\Upqroo\source\repos\16 de mayo\bin\Debug\net5.0\16 de mayo.runtimeconfig.json
+C:\Users\Upqroo\source\repos\16 de mayo\bin\Debug\net5.0\16 de mayo.runtimeconfig.dev.json
+C:\Users\Upqroo\source\repos\16 de mayo\bin\Debug\net5.0\16 de mayo.dll
+C:\Users\Upqroo\source\repos\16 de mayo\bin\Debug\net5.0\16 de mayo.pdb
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\16 de mayo.csproj.AssemblyReference.cache
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\16 de mayo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\16 de mayo.AssemblyInfoInputs.cache
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\16 de mayo.AssemblyInfo.cs
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\16 de mayo.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\16 de mayo.dll
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\refint\16 de mayo.dll
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\16 de mayo.pdb
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\16 de mayo.genruntimeconfig.cache
+C:\Users\Upqroo\source\repos\16 de mayo\obj\Debug\net5.0\ref\16 de mayo.dll
